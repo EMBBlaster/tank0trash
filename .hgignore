@@ -1,0 +1,8 @@
+glob:*.~*
+glob:*.exe
+glob:*.dcu
+glob:*.dsm
+glob:*.res
+glob:*.dof
+glob:*.dsk
+glob:*.cfg
